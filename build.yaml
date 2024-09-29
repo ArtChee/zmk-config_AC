@@ -30,6 +30,8 @@ include:
   - board: nice_nano_v2
     shield: reviung41
     snippet: studio-rpc-usb-uart
+  - board: nice_nano_v2
+    shield: settings_reset 
 
 
 # board: [ "nice_nano" ]
